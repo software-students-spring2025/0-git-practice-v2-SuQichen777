@@ -3,4 +3,6 @@
 
 ##  An interesting article related to software engineering
 [The hardest part of building software is not coding, it's requirements][1]
-[1]:https://www.freecodecamp.org/news/the-hardest-part-of-building-software-is-not-coding-its-requirments/
+
+[1]: https://www.freecodecamp.org/news/the-hardest-part-of-building-software-is-not-coding-its-requirments/ "web1"
+
