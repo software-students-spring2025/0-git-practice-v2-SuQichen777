@@ -10,3 +10,5 @@ This article talked about the AI crisis that many software engineers are worried
 
 [1]: https://stackoverflow.blog/2023/12/29/the-hardest-part-of-building-software-is-not-coding-its-requirements/ "web1"
 
+**Yilei's Note**:
+- This article is **highly related** to the content of our last class.
